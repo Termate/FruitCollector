@@ -1,0 +1,13 @@
+{
+  "require-dev": {
+    "phpunit/phpunit": "^10.0"
+  },
+  "autoload": {
+    "psr-4": {
+      "FruitCollector\\": "src/"
+    }
+  },
+  "require": {
+    "php": "^8.0"
+  }
+}

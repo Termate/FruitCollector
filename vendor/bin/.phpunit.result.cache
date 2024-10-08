@@ -1,0 +1,1 @@
+{"version":1,"defects":{"CollectorTest::testCollect":8,"OrchardTest::testAddTree":8,"TreeTest::testAppleTreeHarvest":8,"TreeTest::testPearTreeHarvest":8},"times":{"CollectorTest::testCollect":0.014,"OrchardTest::testAddTree":0,"TreeTest::testAppleTreeHarvest":0.001,"TreeTest::testPearTreeHarvest":0}}
